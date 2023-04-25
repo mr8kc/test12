@@ -1,5 +1,3 @@
-![Logo](https://raw.githubusercontent.com/mr8kc/test12/main/RKVST_Logo_RGB_280x60px.jpg?token=GHSAT0AAAAAACBVJTSKHPPX2DQYUHABPDDSZCH35OQ)
-
 ![Logo](https://raw.githubusercontent.com/mr8kc/test12/main/RKVST_Logo_RGB_280x60px.jpg)
 
 
